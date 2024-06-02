@@ -56,9 +56,6 @@ Cделали очистку данных [здесь](https://github.com/Auruml
 
 Далее [здесь](https://github.com/Aurumlin/Personal_repository/blob/main/кластеризация.ipynb) мы сделали кластеризацию и написали небольшую нейросеть вот [тут](https://github.com/Aurumlin/Personal_repository/blob/main/нейросеть_проект_python_2_ipynb_.ipynb).
 
-### Выводы и рекомендации:
-
-Таким образом, мы обозначили ряд взаимосвязей
 
 ### Важность проекта:
 
