@@ -7,7 +7,9 @@
 
 ### Сбор данных:
 
-Сбор данных о вакансиях с сайта hh.ru для data-related специальностей (data scientist, data analyst, data engineer и т.д.) и программистов (backend, frontend, fullstack, mobile development и т.д.).
+Сбор данных о вакансиях с сайта [hh.ru](https://hh.ru/) для data-related специальностей (data scientist, data analyst, data engineer и т.д.) и программистов (backend, frontend, fullstack, mobile development и т.д.).
+
+Сначала мы [спарсили вакансии с API hh.ru](https://github.com/Aurumlin/Personal_repository/blob/main/API%20parsing.ipynb)
 ### Очистка и предобработка данных:
 
 Удаление дублирующихся записей и некорректных данных.
