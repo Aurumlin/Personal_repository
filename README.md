@@ -37,7 +37,7 @@ Cделали очистку данных [здесь](https://github.com/Auruml
 
 ### Гипотезы
 
-Мы проверили некоторые гипотезы [здесь](https://github.com/Aurumlin/Personal_repository/blob/main/Hypothesis.ipynb)
+Мы проверили некоторые гипотезы [здесь](https://github.com/Aurumlin/Personal_repository/blob/main/Hypothesis%20(1).ipynb)
 
 А также [здесь](https://github.com/Aurumlin/Personal_repository/blob/main/ML.ipynb), на этапе машинного обучения.
 
