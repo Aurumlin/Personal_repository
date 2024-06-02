@@ -52,7 +52,7 @@ Cделали очистку данных [здесь](https://github.com/Auruml
 
 Текстовый анализ, и предсказание сферы (задача классификации) мы делаем [тут](https://github.com/Aurumlin/Personal_repository/blob/main/NLP_part.ipynb). 
 
-Здесь мы сделали кластеризацию.
+Далее [здесь](https://github.com/Aurumlin/Personal_repository/blob/main/кластеризация.ipynb) мы сделали кластеризацию и написали небольшую нейросеть вот [тут](https://github.com/Aurumlin/Personal_repository/blob/main/нейросеть_проект_python_2_ipynb_.ipynb).
 
 ### Выводы и рекомендации:
 
