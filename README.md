@@ -23,7 +23,7 @@ Cделали очистку данных [здесь](https://github.com/Auruml
 
 ### Предобработка данных и визуализация
 
-Сделали предобработку и визуализации [здесь](https://github.com/Aurumlin/Personal_repository/blob/main/EDA_project%20(1).ipynb).
+Сделали предобработку и визуализации [здесь](https://github.com/Aurumlin/Personal_repository/blob/main/EDA_project%20(2).ipynb).
 
 
 
